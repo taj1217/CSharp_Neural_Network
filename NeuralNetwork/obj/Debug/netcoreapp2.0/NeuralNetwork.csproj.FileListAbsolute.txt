@@ -1,0 +1,11 @@
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.0\NeuralNetwork.deps.json
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.0\NeuralNetwork.runtimeconfig.json
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.0\NeuralNetwork.runtimeconfig.dev.json
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.0\NeuralNetwork.dll
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.0\NeuralNetwork.pdb
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.0\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.0\NeuralNetwork.AssemblyInfoInputs.cache
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.0\NeuralNetwork.AssemblyInfo.cs
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.0\NeuralNetwork.dll
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.0\NeuralNetwork.pdb
+C:\Users\AJ\source\repos\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.0\NeuralNetwork.csprojAssemblyReference.cache
